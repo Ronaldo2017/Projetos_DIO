@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AulaRest.iml" filepath="$PROJECT_DIR$/.idea/AulaRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personapi_dio_live_coding-master/personapi.iml" filepath="$PROJECT_DIR$/personapi_dio_live_coding-master/personapi.iml" />
+    </modules>
+  </component>
+</project>
