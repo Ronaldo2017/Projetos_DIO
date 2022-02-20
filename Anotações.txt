@@ -1,1 +1,3 @@
 Neste será inserido os códigos do curso de java.
+
+Incluido exercícios sobre listas.
